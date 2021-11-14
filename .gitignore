@@ -11,7 +11,6 @@ firebase-debug.*.log*
 /build
 
 # Firebase cache
-.firebase/
 
 # Firebase config
 
